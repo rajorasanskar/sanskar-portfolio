@@ -1,0 +1,41 @@
+﻿git : remote: error: 
+GH008: Your push 
+referenced at least 1 
+unknown Git LFS 
+object:        
+At line:1 char:1
++ git push -u origin 
+main > error.txt 2>&1 
+; Get-Content 
+error.txt | Ou ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (remote: er   
+ ror: ...object:      
+      :String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+remote:     c287a4d10b
+bbbc4c779f7b0a68b666b5
+30ef9754142843aa048b4d
+5976c0d052        
+remote: Try to push 
+them with 'git lfs 
+push --all'.        
+To https://github.com/
+rajorasanskar/sanskar-
+portfolio.git
+ ! [remote rejected] 
+main -> main 
+(pre-receive hook 
+declined)
+error: failed to push 
+some refs to 'https://
+github.com/rajorasansk
+ar/sanskar-portfolio.g
+it'
